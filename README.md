@@ -1,7 +1,7 @@
 # 💳 Spring Boot Fintech Accounts Service
 
 Microservicio backend desarrollado con Java 17 y Spring Boot para la gestión de cuentas bancarias tipo fintech.
-
+🚧 Work in Progress
 ---
 
 # 🚀 Tecnologías utilizadas
